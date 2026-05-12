@@ -1,0 +1,14 @@
+{
+  "mejor_modelo": "CatBoost",
+  "mejor_recall": 0.966822187662001,
+  "mejor_precision": 0.24662787622322138,
+  "mejor_f1": 0.39300389843009165,
+  "mejor_auc_roc": 0.8334536861353058,
+  "mejor_auc_pr": 0.5905042731332433,
+  "mejor_threshold": 0.22,
+  "mejor_score": 0.6994078427576723,
+  "n_modelos": 6,
+  "n_pacientes": 50001,
+  "n_features": 29,
+  "prevalencia_pct": 19.2876
+}

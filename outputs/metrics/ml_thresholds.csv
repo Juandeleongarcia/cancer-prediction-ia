@@ -1,0 +1,6 @@
+Modelo,Threshold_optimo
+CatBoost,0.22
+Logistic Regression,0.19
+LightGBM,0.13
+Random Forest,0.19
+XGBoost,0.04

@@ -1,0 +1,79 @@
+{
+  "num_cols": [
+    "glucosa",
+    "colesterol",
+    "trigliceridos",
+    "hemoglobina",
+    "leucocitos",
+    "plaquetas",
+    "creatinina",
+    "edad",
+    "distancia_hospital_km",
+    "num_hijos"
+  ],
+  "bin_cols": [
+    "fumador",
+    "mut_BRCA1",
+    "mut_TP53",
+    "mut_EGFR",
+    "mut_KRAS",
+    "mut_PIK3CA",
+    "mut_ALK",
+    "mut_BRAF",
+    "diabetes",
+    "hipertension",
+    "obesidad",
+    "enfermedad_cardiaca",
+    "asma",
+    "epoc"
+  ],
+  "ord_cols": [
+    "actividad_fisica"
+  ],
+  "ord_categories": [
+    [
+      "Baja",
+      "Moderada",
+      "Alta"
+    ]
+  ],
+  "cat_cols": [
+    "nivel_educativo",
+    "nivel_ingresos",
+    "zona",
+    "estado_civil"
+  ],
+  "all_features": [
+    "glucosa",
+    "colesterol",
+    "trigliceridos",
+    "hemoglobina",
+    "leucocitos",
+    "plaquetas",
+    "creatinina",
+    "edad",
+    "distancia_hospital_km",
+    "num_hijos",
+    "fumador",
+    "mut_BRCA1",
+    "mut_TP53",
+    "mut_EGFR",
+    "mut_KRAS",
+    "mut_PIK3CA",
+    "mut_ALK",
+    "mut_BRAF",
+    "diabetes",
+    "hipertension",
+    "obesidad",
+    "enfermedad_cardiaca",
+    "asma",
+    "epoc",
+    "actividad_fisica",
+    "nivel_educativo",
+    "nivel_ingresos",
+    "zona",
+    "estado_civil"
+  ],
+  "target": "cancer",
+  "id_col": "paciente_id"
+}
